@@ -3,5 +3,5 @@
 ---
 
 ## 💻 Aplicações Web
-* [web-controle-financeiro](https://github.com/kleberpolivera/web-controle-financeiro) - Sistema de gestão e controle financeiro pessoal.
+* [web-controle-financeiro](https://github.com/kleberpoliveira/web-controle-financeiro) - Sistema de gestão e controle financeiro pessoal.
  
