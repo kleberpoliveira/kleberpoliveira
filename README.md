@@ -1,4 +1,4 @@
-# Lista de Projetos.
+# Lista de Projetos Desenvolvidos.
 
 ---
 
